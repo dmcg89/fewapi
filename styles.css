@@ -1,0 +1,13 @@
+html{
+    background-color: #F0EAD6;
+    height: 100%;
+    width: 100%;
+    color: Navy;
+    margin-left: 2em;
+    margin-top: 2em;
+}
+
+input{
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
